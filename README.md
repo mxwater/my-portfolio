@@ -11,7 +11,6 @@ A way to connect with potential employers, collaborators, and the tech community
 A personal creative space to share updates and future work
 
 🛠 Tech Stack
-
 Frontend: [React, Next.js, HTML, CSS, JavaScript]
 Styling: [TailwindCSS, Styled-Components, plain CSS]
 Hosting: [Vercel, Netlify, GitHub Pages]
