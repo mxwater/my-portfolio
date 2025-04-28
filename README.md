@@ -14,7 +14,7 @@ A personal creative space to share updates and future work
 
 Frontend: [React, Next.js, HTML, CSS, JavaScript]
 Styling: [TailwindCSS, Styled-Components, plain CSS]
-Hosting: [e.g., Vercel, Netlify, GitHub Pages]
+Hosting: [Vercel, Netlify, GitHub Pages]
 
 
 📄 Features
