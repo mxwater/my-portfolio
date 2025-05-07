@@ -13,7 +13,7 @@ A personal creative space to share updates and future work
 🛠 Tech Stack
 Frontend: [React, Next.js, HTML, CSS, JavaScript]
 Styling: [TailwindCSS, Styled-Components, plain CSS]
-Hosting: [Vercel, Netlify, GitHub Pages]
+Hosting: [Vercell, Netlify, GitHub Pages]
 
 
 📄 Features
