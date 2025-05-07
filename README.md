@@ -17,7 +17,7 @@ Hosting: [Vercel, Netlify, GitHub Pages]
 
 
 📄 Features
-Responsive design (works on desktop, tablet, and mobile)
+Responsive design (works on desktop, table, and mobile)
 Project showcase with live links and code repositories
 About Me section
 Contact form or links to social media
