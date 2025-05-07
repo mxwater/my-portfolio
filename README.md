@@ -1,6 +1,6 @@
 Portfolio Website
 
-Welcome!
+Welcometo my first website!
 This project is my personal portfolio, built to showcase my work, skills, and projects as I grow in my career.
 
 🚀 About
