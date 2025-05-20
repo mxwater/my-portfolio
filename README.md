@@ -27,3 +27,4 @@ GitHub Repository:
 📬 Contact
 Feel free to reach out if you’d like to connect!
 marianawatermeyer@gmail.com
+650.207.6320
