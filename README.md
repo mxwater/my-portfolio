@@ -21,9 +21,6 @@ Project showcase with live links and code repositories
 About Me section
 Contact form or links to social media
 
-Live Website: 
-GitHub Repository: 
-
 📬 Contact
 Feel free to reach out if you’d like to connect!
 marianawatermeyer@gmail.com
