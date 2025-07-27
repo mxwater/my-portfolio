@@ -4,7 +4,7 @@ Welcome to my first website!
 This project is my personal portfolio, built to showcase my work, skills, and projects as I grow in my career.
 
 🚀 About:
-This website serves as::::::::::
+This website serves as:::::::::
 A place to highlight my technical skills, projects, and experience
 A way to connect with potential employers, collaborators, and the tech community, and ultimately, a personal creative space to share updates and future work.
 
