@@ -5,7 +5,7 @@ This project is my personal portfolio, built to showcase my work, skills, and pr
 
 🚀 About
 This website serves assss
-A place to highlight my technical skills, projects, and experience
+ place to highlight my technical skills, projects, and experience
 A way to connect with potential employers, collaborators, and the tech community, and ultimately, a personal creative space to share updates and future work
 
 🛠 Tech Stack
