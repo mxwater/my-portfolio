@@ -7,7 +7,7 @@ This project is my personal portfolio, built to showcase my work, skills, and pr
 This website serves as a place to highlight my technical skills, projects, and experience.
 It's a way to connect with potential employers, collaborators, and the tech community, and ultimately, a personal creative space to share updates and future work
 
-🛠 Tech Stack
+🛠 Tech Stack:
 Frontend: [React, Next.js, HTML, CSS, JavaScript]
 Styling: [TailwindCSS, Styled-Components, plain CSS]
 Hosting: [Vercel, Netlify, GitHub Pages]
