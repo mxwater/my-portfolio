@@ -21,6 +21,6 @@ Contact form or links to social media
 
 
 📬 Contact
-Feel free to reach out if you’d like to connect!!
+Feel free to reach out if you’d like to connect!
 marysiq@hotmail.com
 650.207.6320
