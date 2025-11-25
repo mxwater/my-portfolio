@@ -20,7 +20,7 @@
 
 @keyframes logo-spin {
   from {
-    transform: rotate(3deg);
+    transform: rotate(4deg);
   }
   to {
     transform: rotate(360deg);
