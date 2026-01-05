@@ -15,7 +15,7 @@ export default tseslint.config(
     },
     plugins: {
       'react-hooks': reactHooks,
-      'react-refresh': reac,
+      'react-refresh': react,
     },
     rules: {
       ...reactHooks.configs.recommended.rules,
